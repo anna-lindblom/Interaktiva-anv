@@ -1,12 +1,7 @@
 # Vad har jag lärt mig?
 
-## Git
-- Git är ett kommandoradsverktyg
-- Versionshantering
-- Samarbete
-- Distribution
+## HTML
 
-## Github
-- Lagringsplats
-- Webbaserat
-- Repositories
+* Står för hyper text markup language
+* En html-fil måste innehålla <html>, <head> och <body>
+* Används för att strukturera sidan
